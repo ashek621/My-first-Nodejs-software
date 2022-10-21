@@ -1,0 +1,13 @@
+{
+  "name": "myfirstnodejssoftware",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rrmodel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node rrmodel.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
